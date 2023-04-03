@@ -7,12 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaporouschain6&show_icons=true&locale=en&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="vaporouschain6" /></a> </p>
 
 <p align="left">
+ ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 </p>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/?username=vaporouschain6" alt="VaporousChain6" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaporouschain6&show_icons=true&theme=tokyonight&locale=en" alt="vaporouschain6" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaporouschain6&" alt="VaporousChain6" /></p>
 <!--
 **VaporousChain6/VaporousChain6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
