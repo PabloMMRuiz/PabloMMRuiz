@@ -9,7 +9,7 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaporouschain6&show_icons=true&locale=en&row=3" alt="VaporousChain6" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaporouschain6&show_icons=true&locale=en&row=2&column=3&margin-w=15&margin-h=15&no-bg=true" alt="VaporousChain6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaporouschain6&" alt="VaporousChain6" /></p>
 <!--
