@@ -26,13 +26,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/pablomoreno630/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href = "mailto:pablommruiz04@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/pablo-moreno-moreu-99aa0125b/?locale=en_US">
+  <a href="https://www.linkedin.com/in/pablo-moreno-moreu/?locale=en_US">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
