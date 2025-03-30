@@ -22,7 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
-###
 
 <div align="left">
   <a href = "mailto:pablommruiz04@gmail.com">
